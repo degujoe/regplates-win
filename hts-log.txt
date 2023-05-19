@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 May 2023 16:35:56 at https://www.swiftreg.co.uk +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.swiftreg.co.uk -O1 "C:\Users\joesh\OneDrive\Desktop\regplateswin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:36:38	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.swiftreg.co.uk/)
+16:37:07	Warning: 	File not parsed, looks like binary: https://www.swiftreg.co.uk/img/Red_Car.webp
+16:37:07	Warning: 	File not parsed, looks like binary: https://www.swiftreg.co.uk/img/decor/decor_1.webp
+17:00:34	Error: 	"Not Found" (404) at link https://www.swiftreg.co.uk/xhr.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+17:00:34	Error: 	"Not Found" (404) at link https://www.swiftreg.co.uk/GET (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+17:00:34	Error: 	"Not Found" (404) at link https://www.swiftreg.co.uk/lib/widget-management.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+17:00:34	Error: 	"Not Found" (404) at link https://www.swiftreg.co.uk/c (from https://connect.facebook.net/en_US/fbevents.js)
+17:00:34	Error: 	"Not Found" (404) at link https://www.swiftreg.co.uk/b (from https://connect.facebook.net/en_US/fbevents.js)
+17:00:34	Error: 	"Not Found" (404) at link https://www.swiftreg.co.uk/POST (from https://connect.facebook.net/en_US/fbevents.js)
+17:00:34	Error: 	"Service Unavailable" (503) at link https://www.swiftreg.co.uk/pattern/:pattern (from https://www.swiftreg.co.uk/search)
+17:03:50	Warning: 	Link https://www.swiftreg.co.uk/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+20:49:36	Warning: 	engine: warning: serialize error for https://www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa to C:/Users/joesh/OneDrive/Desktop/regplateswin/www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa.html.tmp: write error: No space left on device
+20:49:36	Warning: 	engine: warning: temporary file C:/Users/joesh/OneDrive/Desktop/regplateswin/www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa.html.tmp already exists
+20:49:36	Warning: 	engine: warning: serialize error for https://www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa to C:/Users/joesh/OneDrive/Desktop/regplateswin/www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa.html.tmp: write error: No space left on device
+20:49:36	Warning: 	engine: warning: temporary file C:/Users/joesh/OneDrive/Desktop/regplateswin/www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa.html.tmp already exists
+20:49:36	Warning: 	engine: warning: serialize error for https://www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa to C:/Users/joesh/OneDrive/Desktop/regplateswin/www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa.html.tmp: write error: No space left on device
+20:49:36	Warning: 	engine: warning: temporary file C:/Users/joesh/OneDrive/Desktop/regplateswin/www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa.html.tmp already exists
+20:49:36	Warning: 	engine: warning: serialize error for https://www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa to C:/Users/joesh/OneDrive/Desktop/regplateswin/www.swiftreg.co.uk/private-number-plate-type/current-style/vanessa.html.tmp: write error: No space left on device
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 hours 13 minutes 42 seconds : 43072 links scanned, 43058 files written (8387407388 bytes overall) [871126829 bytes received at 57228 bytes/sec], 8381926165 bytes transferred using HTTP compression in 42928 files, ratio 9%, 644.2 requests per connection
+(11 errors, 14925 warnings, 0 messages)
